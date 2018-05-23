@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Marunter</string>
+    <item name="action_settings" type="id" />
+</resources>
