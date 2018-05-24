@@ -1,4 +1,5 @@
-package com.example.tew.marunter;
+package com.example.tanee.testmrt;
+
 
 import android.support.design.widget.Snackbar;
 import android.support.v7.widget.RecyclerView;
@@ -64,7 +65,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup viewGroup, int i) {
         View v = LayoutInflater.from(viewGroup.getContext())
-                .inflate(R.layout.card_layout, viewGroup, false);
+                .inflate(R.layout.fragment_home, viewGroup, false);
         ViewHolder viewHolder = new ViewHolder(v);
         return viewHolder;
     }

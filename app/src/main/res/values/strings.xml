@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Marunter</string>
+    <string name="app_name">TestMRT</string>
     <item name="action_settings" type="id" />
 </resources>
